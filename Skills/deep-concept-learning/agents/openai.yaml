@@ -1,4 +1,0 @@
-interface:
-  display_name: "Deep Concept Learning"
-  short_description: "Learn complex topics step-by-step with analogies and Hinglish recaps"
-  default_prompt: "Use $deep-concept-learning to teach me this concept from the ground up."

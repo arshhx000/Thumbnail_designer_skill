@@ -1,0 +1,6 @@
+interface:
+  display_name: "Thumbnail Designer Skills"
+  short_description: >-
+    This document captures the thumbnail workflow and design preferences established in the conversation.
+    Use it as the default process whenever a new thumbnail is requested.
+  default_prompt: "Use $thumbnail-designer-skills to create a YouTube thumbnail for this video."
