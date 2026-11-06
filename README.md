@@ -7,7 +7,7 @@ A structured [Agent Skill](https://github.com/anthropics/skills) for [Claude Cod
 Install directly into Claude Code, OpenAI Codex, Cursor, or 75+ supported agents using the [`npx skills` CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add arshhx000/deep-concept-learning-skill --skill Thumbnail_designer_skills
+npx skills add arshhx000/Thumbnail_designer_skill --skill Thumbnail_designer_skills
 ```
 
 To install globally across all your projects:
